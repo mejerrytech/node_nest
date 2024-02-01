@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Atom Material Theme",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.preferredDarkColorTheme": "Atom Material Theme",
+  "workbench.preferredHighContrastColorTheme": "Atom Material Theme",
+  "prettier.arrowParens": "always"
+}
